@@ -1,0 +1,22 @@
+.navbar-brand img {
+    width: 150px;
+    height: 45px;
+}
+
+.main img {
+    width: 80%;
+}
+
+.partners img {
+    width: 50%;
+    /* height: 50%; */
+}
+
+#footer-logo {
+    height: 50px;
+}
+
+
+.main-footer ul li a {
+    text-decoration: none;
+}
